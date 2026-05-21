@@ -1,13 +1,7 @@
-<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 36 36">
-  <path fill="#000" d="M22.25 4h-8.5a1 1 0 0 0-.96.73l-5.54 19.4a.5.5 0 0 0 .62.62l5.05-1.44a2 2 0 0 0 1.38-1.4l3.22-11.66a.5.5 0 0 1 .96 0l3.22 11.67a2 2 0 0 0 1.38 1.39l5.05 1.44a.5.5 0 0 0 .62-.62l-5.54-19.4a1 1 0 0 0-.96-.73Z"/>
-  <path fill="url(#gradient)" d="M18 28a7.63 7.63 0 0 1-5-2c-1.4 2.1-.35 4.35.6 5.55.14.17.41.07.47-.15.44-1.8 2.93-1.22 2.93.6 0 2.28.87 3.4 1.72 3.81.34.16.59-.2.49-.56-.31-1.05-.29-2.46 1.29-3.25 3-1.5 3.17-4.83 2.5-6-.67.67-2.6 2-5 2Z"/>
-  <defs>
-    <linearGradient id="gradient" x1="16" x2="16" y1="32" y2="24" gradientUnits="userSpaceOnUse">
-      <stop stop-color="#000"/>
-      <stop offset="1" stop-color="#000" stop-opacity="0"/>
-    </linearGradient>
-  </defs>
-	<style>
-    @media (prefers-color-scheme:dark){:root{filter:invert(100%)}}
-  </style>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64">
+  <path fill="#e99401" d="M30 4h4v12h-4z"/>
+  <path fill="#e99401" d="M32 18c-12 0-16 6-16 12s4 10 8 12l-4 14c-.5 1.5.5 3 2 3.5l2 .5c1.5.5 3-.5 3.5-2l3-10c.5.25 1.5.25 2 .25s1.5 0 2-.25l3 10c.5 1.5 2 2.5 3.5 2l2-.5c1.5-.5 2.5-2 2-3.5L40 42c4-2 8-6 8-12s-4-12-16-12Z"/>
+  <circle cx="32" cy="28" r="5" fill="#fff"/>
+  <line x1="30" y1="18" x2="30" y2="2" stroke="#e99401" stroke-width="2" stroke-linecap="round"/>
+  <line x1="34" y1="18" x2="34" y2="2" stroke="#e99401" stroke-width="2" stroke-linecap="round"/>
 </svg>
